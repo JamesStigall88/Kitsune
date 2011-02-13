@@ -1,0 +1,11 @@
+# Application global resources
+
+Application.name = Kitsune
+Application.title = Kitsune
+Application.version = 0.1
+Application.vendor = Guillaume Ardaud
+Application.homepage = http\://code.google.com/p/kitsune-fest
+Application.description = A simple Java desktop application based on Swing Application Framework.
+Application.vendorId = Sun
+Application.id = ${Application.name}
+Application.lookAndFeel = system

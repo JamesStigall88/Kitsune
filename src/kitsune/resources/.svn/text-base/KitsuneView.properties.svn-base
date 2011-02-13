@@ -1,0 +1,91 @@
+fileMenu.text = Project
+helpMenu.text = About
+
+# @Action resources
+
+showAboutBox.Action.text = &About...
+showAboutBox.Action.shortDescription = Show the application's information dialog
+
+# status bar resources
+
+StatusBar.messageTimeout = 5000
+StatusBar.busyAnimationRate = 30
+StatusBar.idleIcon = busyicons/idle-icon.png
+StatusBar.busyIcons[0]  = busyicons/busy-icon0.png
+StatusBar.busyIcons[1]  = busyicons/busy-icon1.png
+StatusBar.busyIcons[2]  = busyicons/busy-icon2.png
+StatusBar.busyIcons[3]  = busyicons/busy-icon3.png
+StatusBar.busyIcons[4]  = busyicons/busy-icon4.png
+StatusBar.busyIcons[5]  = busyicons/busy-icon5.png
+StatusBar.busyIcons[6]  = busyicons/busy-icon6.png
+StatusBar.busyIcons[7]  = busyicons/busy-icon7.png
+StatusBar.busyIcons[8]  = busyicons/busy-icon8.png
+StatusBar.busyIcons[9]  = busyicons/busy-icon9.png
+StatusBar.busyIcons[10] = busyicons/busy-icon10.png
+StatusBar.busyIcons[11] = busyicons/busy-icon11.png
+StatusBar.busyIcons[12] = busyicons/busy-icon12.png
+StatusBar.busyIcons[13] = busyicons/busy-icon13.png
+StatusBar.busyIcons[14] = busyicons/busy-icon14.png
+#NOI18N
+exitMenuItem.icon=icons/cross.png
+#NOI18N
+aboutMenuItem.icon=icons/help.png
+exportMenuItem.toolTipText=Export the simulator log
+exportMenuItem.text=Export Simulator Log
+#NOI18N
+exportMenuItem.icon=icons/page_go.png
+newMenuItem.toolTipText=Create a new project
+newMenuItem.text=New...
+#NOI18N
+newMenuItem.icon=icons/asterisk_yellow.png
+openMenuItem.toolTipText=Open an existing project
+openMenuItem.text=Open...
+#NOI18N
+openMenuItem.icon=icons/folder_brick.png
+saveMenuItem.toolTipText=Save the current project
+saveMenuItem.text=Save...
+#NOI18N
+saveMenuItem.icon=icons/disk.png
+statusLabel.toolTipText=The current status of the simulation
+statusLabel.text=Welcome to Kitsune!
+wallButton.toolTipText=Place a wall
+wallButton.text=
+#NOI18N
+wallButton.icon=icons/wall.png
+flammabilityButton.toolTipText=Set the flammability
+#NOI18N
+flammabilityButton.icon=icons/fire.png
+agentButton.toolTipText=Place an agent
+#NOI18N
+agentButton.icon=icons/status_online.png
+doorButton.toolTipText=Place a door
+#NOI18N
+doorButton.icon=icons/door_open.png
+exitButton.toolTipText=Place an exit
+#NOI18N
+exitButton.icon=icons/door_in.png
+stairButton.toolTipText=Place a staircase
+#NOI18N
+stairButton.icon=icons/stairs.png
+labelButton.toolTipText=Place a label
+#NOI18N
+labelButton.icon=icons/textfield_add.png
+startButton.toolTipText=Start the simulation
+startButton.text=
+#NOI18N
+startButton.icon=icons/control_play_blue.png
+jTable1.columnModel.title3=Title 4
+jTable1.columnModel.title2=Title 3
+inspectorTable.columnModel.title1=Value
+inspectorTable.columnModel.title0=Item
+addFloorButton.text=
+#NOI18N
+addFloorButton.icon=icons/add.png
+#NOI18N
+removeFloorButton.icon=icons/delete.png
+text=
+#NOI18N
+labelRemoveButton.icon=icons/textfield_delete.png
+agentRemoveButton.text=
+#NOI18N
+agentRemoveButton.icon=icons/status_busy.png

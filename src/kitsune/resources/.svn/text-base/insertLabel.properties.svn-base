@@ -1,0 +1,11 @@
+okButton.text=Ok
+#NOI18N
+okButton.icon=icons/accept.png
+cancelButton.text=Cancel
+#NOI18N
+cancelButton.icon=icons/cancel.png
+mainLabel.text=Enter the text for the label to insert:
+mainTextField.text=
+okButton.toolTipText=Validate the text you entered, and place it as a label.
+cancelButton.toolTipText=Closes the window, and no label is added.
+Form.title=Insert a label
